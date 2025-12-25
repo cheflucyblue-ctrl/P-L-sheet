@@ -1,0 +1,16 @@
+src/
+├── App.tsx
+├── main.tsx
+├── index.css          (Tailwind setup)
+├── types.ts
+├── components/
+│   ├── MenuDashboard.tsx
+│   ├── DishCostingModal.tsx
+│   ├── SubRecipeCostingModal.tsx
+│   ├── PrepListView.tsx
+│   ├── SupplierManagement.tsx
+│   └── EditableTable.tsx
+├── utils/
+│   └── calculations.ts
+└── services/
+    └── geminiService.ts  (stubbed for demo)
